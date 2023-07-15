@@ -6,3 +6,5 @@ encoder.py - Notebook containing an implementation of the encoder part of the Tr
 encoder.py - Notebook containing an implementation of the decoder part of the Transformer model
 
 machine_translation_from_scratch - Notebook containing an implementation of a machine translation app built using a encoder-decoder from the Transformer model
+
+[GitHub Pages](https://flavioloss.github.io/transformers-from-scratch/)
