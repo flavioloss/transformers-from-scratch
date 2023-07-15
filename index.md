@@ -9,7 +9,7 @@
 
 Although this is a model built from scratch, some parts are not the main focus of the article, therefore some level of help will be used by built-in modules from PyTorch. Since the main focus is what makes Transformers so good at text generation, the essencial parts that makes this possible will be built as raw as possible. 
 
-![img-1](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/map_waterpump.jpeg?raw=true)
+![img-1](images/transformers.png)
  
  
  The basic layer of a Transformer is a Self-Attention, which is composed of several computations such as matrix computations, that calculates weights that the model will learn.
